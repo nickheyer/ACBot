@@ -1,7 +1,7 @@
 
 # ACBot
 
-A crypto mining rig monitoring system (EtherMine). Uses Discord and Google Drive/Sheets API.
+A crypto mining rig monitoring system (ETHERMINE ONLY). Uses Discord and Google Drive/Sheets API.
 
 ![favicon](https://user-images.githubusercontent.com/60236014/165653047-50262aea-c12a-401e-8475-9a22bebeebed.png)
 
