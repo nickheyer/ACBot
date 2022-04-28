@@ -19,17 +19,7 @@ Download ACBot by running the below command, or download the zip directly [HERE]
 ```bash
 git clone https://github.com/nickheyer/ACBot
 ```
-
-Unzip
-```
-unzip ACBZIP.zip
-```
-
-Change Directory
-```
-cd ACBot
-```
-
+Unzip ACBot.zip...
 Install Requirements
 ```
 pip install -r requirements.txt 
