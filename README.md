@@ -11,7 +11,8 @@ A crypto mining rig monitoring system (EtherMine). Uses Discord and Google Drive
 Prerequisites:
 
 - Python must be installed on your machine. [Click Here](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe) for 64-bit installer
-- This was built for Windows, though you could retrofit the file paths, etc. for Linux / Mac. 
+- This was built for Windows, though you could retrofit the file paths, etc. for Linux / Mac.
+- You will need a valid email and a [Discord API Token](https://discord.com/developers/applications).
 
 
 Download ACBot by running the below command, or download the zip directly [HERE](https://github.com/nickheyer/ACBot/raw/main/ACBZIP.zip) (preferred).
