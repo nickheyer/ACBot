@@ -11,6 +11,7 @@ A crypto mining rig monitoring system (ETHERMINE ONLY). Uses Discord and Google 
 Prerequisites:
 
 - Python must be installed on your machine. [Click Here](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe) for 64-bit installer
+  - During installation, make sure you select the option "Add Python to environmental variables"
 - This was built for Windows, though you could retrofit the file paths, etc. for Linux / Mac.
 - You will need a valid email and a [Discord API Token](https://discord.com/developers/applications).
 
@@ -20,6 +21,7 @@ Download ACBot by running the below command, or download the zip directly [HERE]
 git clone https://github.com/nickheyer/ACBot
 ```
 Unzip ACBot.zip...
+Change Directory to ACBot Folder...
 Install Requirements
 ```
 pip install -r requirements.txt 
