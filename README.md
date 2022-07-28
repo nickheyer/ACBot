@@ -16,7 +16,7 @@ Prerequisites:
 - You will need a valid email and a [Discord API Token](https://discord.com/developers/applications).
 
 
-Download ACBot by running the below command, or download the zip directly [HERE](https://github.com/nickheyer/ACBot/raw/main/ACBZIP.zip) (preferred).
+Download ACBot by running the below command, or download the zip directly [HERE](https://github.com/nickheyer/ACBot/raw/main/ACBot.zip) (preferred).
 ```bash
 git clone https://github.com/nickheyer/ACBot
 ```
